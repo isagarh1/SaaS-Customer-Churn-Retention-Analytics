@@ -101,19 +101,36 @@ The project follows a **Star Schema** consisting of two dimension tables and fou
 
 ---
 
-# ⭐ Business Impact
-
-| Business Challenge | Recommendation | Expected Business Impact |
-|--------------------|----------------|--------------------------|
-| Enterprise customers contribute the largest share of revenue | Prioritize Enterprise retention | Protect high-value recurring revenue |
-| Small Business customers have the highest churn | Improve onboarding and engagement | Increase customer retention |
-| High failed payment rate | Implement payment retries and reminders | Improve payment success and recurring revenue |
-| Healthcare industry contributes the highest revenue loss | Launch targeted retention campaigns | Reduce revenue leakage |
-| Login Issues have the longest support resolution time | Improve support response time | Enhance customer satisfaction and retention |
+### Business Value Delivered
+- **Identified the primary business drivers associated with customer churn**, enabling management to prioritize retention efforts across customer segments, subscription plans, and industries.
+- Quantified the financial impact of churn through metrics such as **Revenue Lost and MRR at Risk**, helping stakeholders understand the revenue exposure of customer attrition.
+- **Improved visibility into payment performance** by analyzing failed payment trends, supporting decisions to strengthen payment recovery processes and protect recurring revenue.
+- **Delivered an executive-ready Power BI dashboard** that consolidated customer, subscription, payment, usage, and support data into a single view for faster, data-driven decision-making.
+- **Translated analytical insights into actionable business recommendations**, enabling management to prioritize high-impact initiatives for improving customer retention and sustainable revenue growth.
 
 ---
 
+### Skills Demonstrated
 
+• SQL (PostgreSQL)
+• Power BI
+• DAX
+• Data Cleaning & Validation
+• Data Modeling (Star Schema)
+• Exploratory Data Analysis (EDA)
+• KPI Development
+• Customer Churn Analysis
+• Revenue Analytics
+• Customer Segmentation
+• Business Root Cause Analysis
+• Dashboard Design
+• Data Visualization
+• Business Storytelling
+
+---
+
+### Author
+**Sagar Hiware**
 
 
 
