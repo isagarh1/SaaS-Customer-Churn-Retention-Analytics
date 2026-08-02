@@ -129,9 +129,12 @@ The project follows a **Star Schema** consisting of two dimension tables and fou
 
 ---
 
-### Author
+## Author
+
 **Sagar Hiware**
 
+LinkedIn: https://linkedin.com/in/isagarhiware1
+GitHub: https://github.com/isagarh1
 
 
 
