@@ -112,20 +112,20 @@ The project follows a **Star Schema** consisting of two dimension tables and fou
 
 ### Skills Demonstrated
 
-• SQL (PostgreSQL)
-• Power BI
-• DAX
-• Data Cleaning & Validation
-• Data Modeling (Star Schema)
-• Exploratory Data Analysis (EDA)
-• KPI Development
-• Customer Churn Analysis
-• Revenue Analytics
-• Customer Segmentation
-• Business Root Cause Analysis
-• Dashboard Design
-• Data Visualization
-• Business Storytelling
+- SQL (PostgreSQL)
+- Power BI
+- DAX
+- Data Cleaning & Validation
+- Data Modeling (Star Schema)
+- Exploratory Data Analysis (EDA)
+- KPI Development
+- Customer Churn Analysis
+- Revenue Analytics
+- Customer Segmentation
+- Business Root Cause Analysis
+- Dashboard Design
+- Data Visualization
+- Business Storytelling
 
 ---
 
