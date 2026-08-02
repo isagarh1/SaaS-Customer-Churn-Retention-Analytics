@@ -74,7 +74,11 @@ The project follows a **Star Schema** consisting of two dimension tables and fou
 
 <img width="995" height="627" alt="Overview" src="https://github.com/user-attachments/assets/7ddbc035-0792-4e03-a441-24f719f1d9c9" />
 
+---
+
 <img width="997" height="646" alt="customer_churn" src="https://github.com/user-attachments/assets/d32bb3f8-2f2c-4b5b-851a-6f19896ec93e" />
+
+---
 
 <img width="997" height="662" alt="recomendations" src="https://github.com/user-attachments/assets/1dee93b1-f405-4bd8-b76f-7f7606e88fc6" />
 
